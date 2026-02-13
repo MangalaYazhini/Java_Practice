@@ -1,4 +1,4 @@
-public class StaticVariable 
+public class Java_Static
 {
   static int totalInstances ;  // The static variable is common to all the objects. 
   int score ; 
