@@ -1,4 +1,4 @@
-class Datatypes
+class Java_Datatypes
 {
 
   enum Day {SUN, MON, TUE,WED, THUR, FRI , SAT} ; 
