@@ -1,4 +1,4 @@
-class MyClass
+class Java_Class
 {
   int intVar = 10 ; 
   double doubleVar = 50.454; 
