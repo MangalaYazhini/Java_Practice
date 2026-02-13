@@ -1,5 +1,5 @@
 
-public class JavaString {
+public class Java_String {
   
   public static void main(String[] args) {
     
