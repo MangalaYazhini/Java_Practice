@@ -84,6 +84,7 @@ public class Java_Abstract
         System.out.println("Circumference: " + rectangleShape.circumference());
         
         Shape.getShapeCount(); // Call static method to get shape count
+        System.out.println("Total Shapes Created (from static variable): " + Shape.shapeCount);
     }
 }
 
